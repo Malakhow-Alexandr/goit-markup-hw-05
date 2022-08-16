@@ -337,7 +337,7 @@ img {
   background-color: var(--primary-bg-color);
 }
 .staff-list > .item + .item {
-  margin-left: 10px;
+  margin-left: 30px;
 }
 
 .staff-socials {
